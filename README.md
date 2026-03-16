@@ -1,2 +1,3 @@
-# Website-for-MIL
-Webpage 
+---Basic Auto Schedule Maker---
+
+Generates any schedule for you...
